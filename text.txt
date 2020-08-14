@@ -5,6 +5,7 @@ User 2 add Stage 3
 User 1 add > Stage 3
 User 1 add Stage 4
 User 2 add Stage 4
+User 1 add Stage 5
 User 1 add Stage 6
 User 1 add Stage 7
 User 1 add Stage 8
