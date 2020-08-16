@@ -1,8 +1,1 @@
-user1 restart
-user2 add one line
-user remove oneline
-user2 add the second line
-user1 add the second line
-user2 add the second linee\
-u1 add 1
-u1 add 2
+restart now
