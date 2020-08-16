@@ -1,3 +1,4 @@
 user1 restart
 user2 add one line
 user remove oneline
+user2 add the second linee\
