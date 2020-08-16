@@ -1,1 +1,2 @@
 user1 restart
+user2 add one line
